@@ -1,0 +1,14 @@
+
+
+
+
+
+- Eclipse에 내장된 Git을 사용할 수도 ㅇㅆ따
+
+# Eclipse에서 Git관리 메뉴 열기
+
+- Window -> Show View -> Other... -> Git -> 원하는 걱 선택하기
+
+# 새 프로젝트로 레포지토리 만들기
+- 새 프로젝트 생성 -> 우클릭 -> Team -> Share Project -> 위치 선택 후 레포지토리로 변환
+- 원래 java-workspace에 있던 프로젝트가 레포지토리로 이동되어 .git의 관리를 받기 시작한다
